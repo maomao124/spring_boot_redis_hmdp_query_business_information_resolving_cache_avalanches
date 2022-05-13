@@ -18,3 +18,14 @@
 2022-05-13 22:59:59.941  INFO 8804 --- [restartedMain] ationResolvingCacheAvalanchesApplication : Started SpringBootRedisHmdpQueryBusinessInformationResolvingCacheAvalanchesApplication in 2.657 seconds (JVM running for 3.412)
 2022-05-13 23:00:04.053  INFO 8804 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
 2022-05-13 23:00:04.054  INFO 8804 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2022-05-13 23:00:34.139  INFO 13300 --- [main] ResolvingCacheAvalanchesApplicationTests : Starting SpringBootRedisHmdpQueryBusinessInformationResolvingCacheAvalanchesApplicationTests using Java 16.0.2 on mao with PID 13300 (started by mao in H:\程序\大三下期\spring_boot_redis_hmdp查询商户信息解决缓存雪崩问题)
+2022-05-13 23:00:34.141 DEBUG 13300 --- [main] ResolvingCacheAvalanchesApplicationTests : Running with Spring Boot v2.6.7, Spring v5.3.19
+2022-05-13 23:00:34.142  INFO 13300 --- [main] ResolvingCacheAvalanchesApplicationTests : The following 1 profile is active: "dev"
+2022-05-13 23:00:34.910  INFO 13300 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-05-13 23:00:34.913  INFO 13300 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-05-13 23:00:34.953  INFO 13300 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 16 ms. Found 0 Redis repository interfaces.
+2022-05-13 23:00:35.840  INFO 13300 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-05-13 23:00:36.124  INFO 13300 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-05-13 23:00:38.648  INFO 13300 --- [main] ResolvingCacheAvalanchesApplicationTests : Started SpringBootRedisHmdpQueryBusinessInformationResolvingCacheAvalanchesApplicationTests in 4.955 seconds (JVM running for 5.965)
+2022-05-13 23:00:39.316  INFO 13300 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-05-13 23:00:39.318  INFO 13300 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
