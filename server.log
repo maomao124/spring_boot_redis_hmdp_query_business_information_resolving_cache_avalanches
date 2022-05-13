@@ -1,0 +1,20 @@
+2022-05-13 22:59:57.659  INFO 8804 --- [restartedMain] ationResolvingCacheAvalanchesApplication : Starting SpringBootRedisHmdpQueryBusinessInformationResolvingCacheAvalanchesApplication using Java 16.0.2 on mao with PID 8804 (H:\程序\大三下期\spring_boot_redis_hmdp查询商户信息解决缓存雪崩问题\target\classes started by mao in H:\程序\大三下期\spring_boot_redis_hmdp查询商户信息解决缓存雪崩问题)
+2022-05-13 22:59:57.660 DEBUG 8804 --- [restartedMain] ationResolvingCacheAvalanchesApplication : Running with Spring Boot v2.6.7, Spring v5.3.19
+2022-05-13 22:59:57.660  INFO 8804 --- [restartedMain] ationResolvingCacheAvalanchesApplication : The following 1 profile is active: "dev"
+2022-05-13 22:59:57.694  INFO 8804 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-05-13 22:59:57.694  INFO 8804 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-05-13 22:59:58.204  INFO 8804 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-05-13 22:59:58.205  INFO 8804 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-05-13 22:59:58.226  INFO 8804 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 11 ms. Found 0 Redis repository interfaces.
+2022-05-13 22:59:58.663  INFO 8804 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2022-05-13 22:59:58.670  INFO 8804 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-13 22:59:58.671  INFO 8804 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-13 22:59:58.732  INFO 8804 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-13 22:59:58.733  INFO 8804 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1038 ms
+2022-05-13 22:59:58.952  INFO 8804 --- [restartedMain] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-05-13 22:59:59.048  INFO 8804 --- [restartedMain] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-05-13 22:59:59.886  INFO 8804 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-05-13 22:59:59.930  INFO 8804 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2022-05-13 22:59:59.941  INFO 8804 --- [restartedMain] ationResolvingCacheAvalanchesApplication : Started SpringBootRedisHmdpQueryBusinessInformationResolvingCacheAvalanchesApplication in 2.657 seconds (JVM running for 3.412)
+2022-05-13 23:00:04.053  INFO 8804 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-05-13 23:00:04.054  INFO 8804 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
